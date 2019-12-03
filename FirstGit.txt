@@ -1,1 +1,2 @@
 我的第一个Git程序
+have a try
